@@ -5,6 +5,7 @@
 
 DummyForGit::DummyForGit()
 {
+	//feature01
 }
 
 DummyForGit::~DummyForGit()
